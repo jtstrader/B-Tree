@@ -1,0 +1,5 @@
+'createBT' creates a BTree object from a list of Album records.
+
+Usage: createBT [INPUT_FILE] [OUTPUT_FILE]
+
+Note that the input file must be in text format, and will not read in binary information.

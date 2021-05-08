@@ -1,0 +1,6 @@
+'updateBT' opens a previously defined BTree file and performs searches and insertions.
+
+The search/insertion instructions should be provided in text format in the second input file.
+The inputted tree file will be updated as the insertions take place.
+
+Usage: updateBT [TREE_FILE] [TRANSACTION_FILE]
